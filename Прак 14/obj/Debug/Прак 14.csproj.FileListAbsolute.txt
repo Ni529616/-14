@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Прак 14\bin\Debug\Прак 14.exe.config
+C:\Users\Admin\source\repos\Прак 14\bin\Debug\Прак 14.exe
+C:\Users\Admin\source\repos\Прак 14\bin\Debug\Прак 14.pdb
+C:\Users\Admin\source\repos\Прак 14\obj\Debug\Прак 14.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Прак 14\obj\Debug\Прак 14.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Прак 14\obj\Debug\Прак 14.exe
+C:\Users\Admin\source\repos\Прак 14\obj\Debug\Прак 14.pdb
